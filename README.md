@@ -28,5 +28,8 @@ Prediction type: Binary Classification (Will churn or not)
 
 Can we use the available data to predict if a customer is likely to churn, and if so, why? How can we help the company take early action to prevent losing such customers?
 
-TO UPLOAD DATASET
+TO UPLOAD DATASET 
+from google.colab import files
+uploaded = files.upload()
+
 
